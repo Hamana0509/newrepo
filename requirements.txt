@@ -1,0 +1,4 @@
+feast[gcp]==0.47.0
+pydantic
+dask[dataframe]
+pyarrow
